@@ -29,6 +29,11 @@ import android.widget.TextView;
  * 远程注入问题，4.2以后已解决
  * 自定义拦截
  */
+
+/**
+ * Android 6.0(SDK 23)版本已经基本将Apahce Http Client 移除出SDK。
+ * 所以使用包org.apache.http.legacy.jar，否则报错。
+ */
 public class MainActivity extends Activity {
     private WebView mWebView;
     private Button back;
