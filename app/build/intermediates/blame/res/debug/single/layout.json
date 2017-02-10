@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\You\\Desktop\\github\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second_layout.xml",
+        "source": "C:\\Users\\You\\Desktop\\github\\WebView\\app\\src\\main\\res\\layout\\second_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\github\\WebView_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\github\\WebView_AS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\github\\WebView_AS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second_layout.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\github\\WebView_AS\\app\\src\\main\\res\\layout\\second_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\You\\Desktop\\github\\WebView\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\You\\Desktop\\github\\WebView\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
